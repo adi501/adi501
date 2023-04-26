@@ -5,6 +5,12 @@ I have 9+ years of professional full-stack development experience in architectin
 
 **My Tech Skills**
 
+Markup : * Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
+
+
  Markup : *ASP.net
  Markup : *MVC
  Markup : *C#
