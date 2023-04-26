@@ -3,6 +3,18 @@ I'm Adinarayana Reddy JC - full stack dot net developer at SLK. from Bengaluru, 
 I have 9+ years of professional full-stack development experience in architecting, designing & development of web, desktop & mobile applications across various domains using .NET and Web technologies.
 
 
+~~~
+ Markup : * Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
+-OR-
+ Markup : - Bullet list
+              - Nested bullet
+                  - Sub-nested bullet etc
+          - Bullet list item 2 
+~~~
+
 **My Tech Skills**
 
 Markup : * Bullet list
