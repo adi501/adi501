@@ -5,9 +5,9 @@ I have 9+ years of professional full-stack development experience in architectin
 
 **My Tech Skills**
 
-*ASP.net
-*MVC
-*C#
+ Markup : *ASP.net
+ Markup : *MVC
+ Markup : *C#
 *SQL Server
 *ASP.NET Core
 React JS
