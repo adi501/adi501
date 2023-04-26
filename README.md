@@ -5,11 +5,11 @@ I have 9+ years of professional full-stack development experience in architectin
 
 **My Tech Skills**
 
-ASP.net
-MVC
-C#
-SQL Server
-ASP.NET Core
+*ASP.net
+*MVC
+*C#
+*SQL Server
+*ASP.NET Core
 React JS
 React Native
 MAUI
