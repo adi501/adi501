@@ -10,7 +10,7 @@ MVC
 C#
 SQL Server
 ASP.NET Core
-React
+React JS
 React Native
 MAUI
 HTML
