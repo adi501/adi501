@@ -1,5 +1,3 @@
-### Hi there 👋
-
 I'm Adinarayana Reddy JC - full stack dot net developer at SLK. from Bengaluru, India
 
 I have 9+ years of professional full-stack development experience in architecting, designing & development of web, desktop & mobile applications across various domains using .NET and Web technologies.
