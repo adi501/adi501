@@ -7,6 +7,8 @@ I have 9+ years of professional full-stack development experience in architectin
 
 * ASP.net
 * MVC
+* .net core
+* microservices
 * C#
 * SQL Server
 * ASP.NET Core
@@ -26,6 +28,7 @@ I have 9+ years of professional full-stack development experience in architectin
 * WCF
 * WEB API
 * Ado.net and etc
+
 
 
 **📫 Profiles(How to reach me)**
