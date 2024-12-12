@@ -29,7 +29,7 @@ I have 9+ years of professional full-stack development experience in architectin
 * WEB API
 * Ado.net and etc
 
-
+![Adi github stats](https://github-readme-stats.vercel.app/api?username=adi501&show_icons=true&theme=radical)
 
 **📫 Profiles(How to reach me)**
 
